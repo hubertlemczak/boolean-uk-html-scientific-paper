@@ -1,0 +1,12 @@
+body {
+  margin: 5px;
+}
+ul,
+ul li {
+  list-style-type: none;
+  padding: 5px 5px;
+  margin-left: 0px;
+}
+ol {
+  margin: 0px 0px 10px 0;
+}
